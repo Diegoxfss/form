@@ -79,7 +79,7 @@
         <div class="name"> 
         <tr>   
          
-        <form method="post" action="" action="#" autocomplete="off"  target="_blank"></a>>
+        <form method="post" action="#" autocomplete="off" ></a>>
             <th></th>
             <th scope="col" colspan="2" align="right" color="black">
             <label for="Name"><strong>Name :</strong></label>
