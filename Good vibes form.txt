@@ -171,7 +171,7 @@
         <div class="positive_experience"> 
         <td colspan="3" align="right" color="black">
             <label for="Please Describe your positive experience :"><strong>Please Describe your positive experience :</strong></label>
-                <input type="text" placeholder="Enter your positive experience here" size="50" required name="Please Describe your positive experience :" id="id_positiveexperience"></td>
+            <textarea name="comment"  form="usrform">Describe heree</textarea></td>
         </tr>
             </label>
         </div>
